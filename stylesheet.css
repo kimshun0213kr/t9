@@ -28,7 +28,9 @@ li {
 .weekend-table {
   border-right:1px solid #3c6690;
 }
-
+.g-pic {
+  height:36px;
+}
 .this-week-link {
   width:100%;
 }
